@@ -1,0 +1,7 @@
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\ecamu\Desktop\examen-ecamusa\Examen\Examen\obj\Debug\Examen.pdb
